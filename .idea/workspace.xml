@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3955bf1b-8f85-44ad-9d2c-938cea9d4a53" name="Default Changelist" comment="" />
+    <list default="true" id="3955bf1b-8f85-44ad-9d2c-938cea9d4a53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apps/user/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+            <state relative-caret-position="139">
+              <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <element signature="e#4247#4774#0" />
@@ -145,6 +147,9 @@
       <find>add_cart</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -200,59 +205,19 @@
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="dailyfresh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailyfresh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailyfresh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailyfresh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailyfresh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailyfresh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dailyfresh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyfresh" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="fdfs" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/search" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -333,17 +298,18 @@
       <workItem from="1565532151531" duration="8526000" />
       <workItem from="1565570842376" duration="15059000" />
       <workItem from="1565678166078" duration="10373000" />
-      <workItem from="1565787147424" duration="645000" />
+      <workItem from="1565787147424" duration="888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248653000" />
+    <option name="totallyTimeSpent" value="248896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25153375" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25113463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="manage.py@dailyfresh" order="0" weight="0.7091837" />
@@ -744,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/user/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+        <state relative-caret-position="139">
+          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#4247#4774#0" />
